@@ -1,2 +1,2 @@
 # MachineLearning
-In the repo you will find my machine learning projects.
+In the repository you will find my machine learning projects.
